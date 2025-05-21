@@ -1,0 +1,8 @@
+flask
+pyrebase4
+flask_cors
+numpy
+pandas
+matplotlib
+scikit-learn
+pypickle
